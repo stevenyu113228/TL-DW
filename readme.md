@@ -36,5 +36,5 @@ python3 main.py [file_name.mp4]
 
 ## Demo Result
 ![](img/img1.png)
-(From: [BSidesBCN21 - Atomistic IoT Penetration Testing Methodology (Arnau Estebanell Castellví)](https://www.youtube.com/watch?v=1Qv0xr_GVCY))
+(From: My Talk in BSide Tokyo / SECCON 2022)
 

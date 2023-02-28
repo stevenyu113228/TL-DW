@@ -16,7 +16,7 @@ from datetime import timedelta
 
 
 OPEN_AI_KEY = "" 
-THRESHOLD = 0.9 # 相似度門檻
+THRESHOLD = 0.90 # 相似度門檻
 THREADS = 8 # 8個執行緒
 
 def start(file_name):
